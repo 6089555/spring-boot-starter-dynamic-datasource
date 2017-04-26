@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.wjusite.boot.datasource.TransactionAutoConfiguration
